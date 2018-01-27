@@ -24,3 +24,6 @@ var HTMLitemAuthor = '</a> %data%</p>';
 var HTMLmovieURL = '<p class="body"><a href="%data%" target="_blank">';
 var HTMLmovieTitle = '<em>%data%</em></a></p>';
 
+/* Noun Links: People, Studios, Thoughts */
+var HTMLnounURL = '<p class="body"><a href="%data%" target="_blank">';
+var HTMLnounName = '%data%</a></p>'
