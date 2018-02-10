@@ -185,7 +185,7 @@ var people = {
             "name": "Christine Herrin",
         },
         {
-            "url": "https://www.instagram.com/victoriamisu/",
+            "url": "https://www.instagram.com/thisisvictoriachang/",
             "name": "Victoria Chang",
         },
         {
