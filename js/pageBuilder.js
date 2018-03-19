@@ -15,7 +15,7 @@ var nav = {
     "links": [
         {
             "name": "résumé",
-            "url": "resume.html"
+            "url": "files/MaraChilds_Resume.pdf"
         },
         {
             "name": "contact",
