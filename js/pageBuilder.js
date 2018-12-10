@@ -1,5 +1,5 @@
 var footer = {
-    "text": "V3.0.2. Ⓒ 2018 Mara Childs."
+    "text": "V4.0.0. Ⓒ 2019 Mara Childs."
 };
 
 footer.display = function() {
@@ -13,14 +13,6 @@ footer.display();
 
 var nav = {
     "links": [
-        {
-            "name": "résumé",
-            "url": "files/MaraChilds_Resume.pdf"
-        },
-        {
-            "name": "contact",
-            "url": "contact.html"
-        },
         {
             "name": "about",
             "url": "about.html"

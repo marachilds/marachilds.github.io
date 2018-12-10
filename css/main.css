@@ -321,6 +321,14 @@ img {
     color: #BABABA;
 }
 
+/* GRADIENT */
+.gradient {
+    font-weight: 900;
+    background: -webkit-linear-gradient(0deg, #ff90ff, #0090ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
 /* EUROPA */
 h1 {
     color: #6633CC;
